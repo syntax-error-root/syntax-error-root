@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 530" width="985px" height="530px" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -10,8 +10,6 @@ size-adjust: 109%;
 }
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
@@ -44,23 +42,23 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">                                      </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">syntax-error@root</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Android, Windows</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">1 year, 0 months, 18 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Workstation &amp; Cloud Homelab</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Linux 6.8.0-generic x86_64</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">VSCode, NeoVim, JetBrains</tspan>
+<tspan x="390" y="30">syntax-error@root</tspan> -————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Linux, Android, Windows</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................ </tspan><tspan class="value" id="age_data">1 year, 0 months, 18 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Workstation &amp; Homelab</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Linux 6.8.0 x86_64</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">VSCode, NeoVim</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Rust, TypeScript, JavaScript, Python, PHP</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools &amp; Ops</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">SaltStack, Docker, OpenShift, Shell, Git</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Bengali</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Rust, TypeScript, Python</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Docker, SaltStack, OpenShift</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">English, Bengali</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">AI Agents, Terminal Emulators, High Availability</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Infrastructure</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Self-Hosting, Microservices, Security</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">root.dev2000@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Contact</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">default13789@gmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">syntax-error-root</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Active Contributor &amp; Systems Builder</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">AI Agents, Terminal Dev</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Homelab, Self-Hosting</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">root.dev2000@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Contact</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">default13789@gmail.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">syntax-error-root</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Systems Architect &amp; Dev</tspan>
 </text>
 </svg>
